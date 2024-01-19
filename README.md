@@ -11,4 +11,4 @@ Created a GitHub repository to understand how version control works. - Used GitH
 - `index.html`: The main HTML file for the webpage
 - `README.md`: This file, providing details about the project and the learning process. 
 
-## View the Webpage at `https://<my-username>.github.io/<repository-name>/`.
+## View the Webpage at `https://umm-sure.github.io/gis_prog_helloworld/`.
